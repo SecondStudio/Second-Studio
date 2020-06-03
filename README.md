@@ -3,6 +3,6 @@ Second Studio is an open source collaboration software for architects and design
 
 [Edited Feature Showcase](https://youtu.be/rGtQG-rppHU)
 
-[Full Length Feature Showcase)(https://youtu.be/VXCCkyh_10M)
+[Full Length Feature Showcase](https://youtu.be/VXCCkyh_10M)
 
 [MultiUser Support](https://youtu.be/T_oOrrtYySA)
